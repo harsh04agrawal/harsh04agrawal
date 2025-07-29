@@ -10,7 +10,7 @@
 
 - 💻 I'm a **Final Year CSE student** at **SIT Pune**.
 - 🌱 Currently learning **Python | Power BI | SQL | Machine Learning**.
-- 📚 I’m passionate about ** Insights**, **Strategy**, and **Predictive Analytics**.
+- 📚 I’m passionate about **Insights**, **Strategy**, and **Predictive Analytics**.
 - 🤝 I’m looking to **collaborate** on exciting projects.
 - 🌐 Let's connect! Reach out to me via the following links:
 
