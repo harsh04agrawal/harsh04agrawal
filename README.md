@@ -1,7 +1,7 @@
 <p align="center">
   <img height="80%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh04agrawal&layout=compact&hide_border=true&theme=highcontrast&langs_count=6&hide=tex,css,php&exclude_repo=Pacman-AI">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh04agrawal&theme=highcontrast&border_radius=8" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=harsh04agrawal&theme=highcontrast&border_radius=8" alt="GitHub Streak">
 </p>
 
 ---
