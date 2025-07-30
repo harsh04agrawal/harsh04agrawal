@@ -2,10 +2,6 @@
   <img height="80%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh04agrawal&layout=compact&hide_border=true&theme=highcontrast&langs_count=6&hide=tex,css,php&exclude_repo=Pacman-AI">
   <br><br>
   <img src="https://streak-stats.demolab.com?user=harsh04agrawal&theme=highcontrast&border_radius=8" alt="GitHub Streak">
-  <br><br>
-  <a href="https://leetcode.com/harsh04agrawal/">
-    <img src="https://leetcard.jacoblin.cool/harsh04agrawal?theme=dark" alt="LeetCode Stats Card">
-  </a>
 </p>
 
 ---
@@ -28,6 +24,8 @@
   <a href="https://leetcode.com/u/harsh04agrawal/" target="_blank" title="Check out my LeetCode">
      <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Logo" height="17">
   </a>
+
+
 </div>
 
 ---
