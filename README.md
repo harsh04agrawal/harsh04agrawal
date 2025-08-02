@@ -12,7 +12,7 @@
 - 🌱 Skilled in Python, SQL, Power BI, and Machine Learning with hands-on experience in Exploratory Data Analysis (EDA), Feature Engineering, and Statistical Modeling.
 - 📚 I’m passionate about **Insights**, **Strategy**, and **Predictive Analytics**.
 - 🤝 I’m looking to **collaborate** on exciting projects.
-- 🛠️ I’ve worked on projects involving web scraping (BeautifulSoup, Selenium), API integration, and dashboard creation for real-world problem solving.
+- 🛠️ I’ve worked on projects involving web scraping and dashboard creation for real-world problem solving.
 - 🌐 Let's connect! Reach out to me via the following links:
 
 <div style="display: flex; align-items: center; justify-content: center;">
