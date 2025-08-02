@@ -9,9 +9,10 @@
 ### 👋 Hi, I’m Harsh Agrawal
 
 - 💻 I'm a **Final Year CSE student** at **SIT Pune**.
-- 🌱 Currently learning **Python | Power BI | SQL | Machine Learning**.
+- 🌱 Skilled in Python, SQL, Power BI, and Machine Learning with hands-on experience in Exploratory Data Analysis (EDA), Feature Engineering, and Statistical Modeling.
 - 📚 I’m passionate about **Insights**, **Strategy**, and **Predictive Analytics**.
 - 🤝 I’m looking to **collaborate** on exciting projects.
+- 🛠️ I’ve worked on projects involving web scraping (BeautifulSoup, Selenium), API integration, and dashboard creation for real-world problem solving.
 - 🌐 Let's connect! Reach out to me via the following links:
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -23,6 +24,9 @@
   </a>
   <a href="https://leetcode.com/u/harsh04agrawal/" target="_blank" title="Check out my LeetCode">
      <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Logo" height="17">
+  </a>
+  <a href="https://www.hackerrank.com/profile/harshagrawal845" target="_blank" title="Visit my HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Logo" height="17">
   </a>
 
 
